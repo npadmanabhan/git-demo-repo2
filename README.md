@@ -2,4 +2,4 @@
 This is a simple README has been created for demo purposes!!
 
 ## Subheader 1
-This is awesome.
+This is awesome. This is a beautiful thing.
